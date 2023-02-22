@@ -1,6 +1,6 @@
 ## Machine-Learning-NTUEE-2022
 
-Instructor: Hung-Yi Lee
+Instructor: Hung-Yi Lee<br>
 Course Website: [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
 
 ## Outline
