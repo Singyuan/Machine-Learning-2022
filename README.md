@@ -1,4 +1,10 @@
+## Machine-Learning-NTUEE-2022
+
+Instructor: Hung-Yi Lee
+Course Website: [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
+
 ## Outline
+
 |No.|Homework|Code|Public Baseline|Private Baseline|
 |-|-|-|-|-|
 |1|[Regression](hw1/hw1_lec.pdf)|[COVID-19 Cases Prediction](hw1/hw1.ipynb)|Strong|Strong|
